@@ -1,0 +1,16 @@
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\bin\Debug\WpfApp_FractalSnow.exe.config
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\bin\Debug\WpfApp_FractalSnow.exe
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\bin\Debug\WpfApp_FractalSnow.pdb
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.csprojAssemblyReference.cache
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\MainWindow.g.cs
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\App.g.cs
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow_MarkupCompile.cache
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow_MarkupCompile.lref
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\MainWindow.baml
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.g.resources
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.Properties.Resources.resources
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.csproj.GenerateResource.cache
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.csproj.CoreCompileInputs.cache
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.exe
+C:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\WpfApp_FractalSnow.pdb
+c:\Work_Step2019\08_VisualC#_WPF\AppWPF_C#_ch03_08\WpfApp_FractalSnow\WpfApp_FractalSnow\obj\Debug\GeneratedInternalTypeHelper.g.cs
